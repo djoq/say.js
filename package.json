@@ -2,7 +2,7 @@
   "name": "say.js",
   "version": "1.0.0",
   "description": "simple logging utility",
-  "main": "say.js",
+  "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
