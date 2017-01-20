@@ -1,0 +1,29 @@
+{
+  "name": "say.js",
+  "version": "1.0.0",
+  "description": "simple logging utility",
+  "main": "say.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djoq/say.js.git"
+  },
+  "keywords": [
+    "logger",
+    "logging",
+    "logs",
+    "logfile"
+  ],
+  "author": "daniel oquinn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djoq/say.js/issues"
+  },
+  "homepage": "https://github.com/djoq/say.js#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "util": "^0.10.3"
+  }
+}
