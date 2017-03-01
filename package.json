@@ -1,6 +1,6 @@
 {
   "name": "say.js",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "simple logging utility",
   "main": "index.js",
   "scripts": {
