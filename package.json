@@ -24,7 +24,6 @@
   "homepage": "https://github.com/djoq/say.js#readme",
   "dependencies": {
     "chai": "^3.5.0",
-    "coffee-script": "^1.12.2",
     "util": "^0.10.3"
   }
 }
