@@ -13,5 +13,5 @@ installation: `$ npm install say.js`
 
 ### Usage
 ```
-coffee> say "hello" 
+coffee> say "what up" 
 ```
