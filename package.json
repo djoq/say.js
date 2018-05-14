@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/djoq/say.js#readme",
   "dependencies": {
-    "chai": "^3.5.0",
-    "util": "^0.10.3"
+    "util": "^0.10.3",
+    "chai": "^3.5.0"
   }
 }
