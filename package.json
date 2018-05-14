@@ -1,6 +1,6 @@
 {
   "name": "say.js",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "simple logging utility",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
     "url": "git+https://github.com/djoq/say.js.git"
   },
   "keywords": [
+    "object",
+    "inspection",
+    "print",
+    "console",
     "logger",
     "logging",
     "logs",
