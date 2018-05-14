@@ -15,7 +15,7 @@ installation: `$ npm install say.js`
 ```
 node> say("what up")
 ```
-### Additional Ops (currently only git, npm to come)
+### Additional Ops ( available in 1.4.0 on npm)
 
 ```diff
 node> say('Hello, World!').color('green');
