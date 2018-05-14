@@ -35,4 +35,3 @@ describe('New color methods are compatible with legacy ', () => {
     done();
   });
 });
-
